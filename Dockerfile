@@ -12,7 +12,6 @@ RUN sudo apt-get install -y git
 RUN git clone https://github.com/Qubix96/JSEQ_scRNAseq.git
 
 RUN sudo apt-get update
-RUN sudo apt-get update
 
 
 RUN sudo apt -y install python3.8
